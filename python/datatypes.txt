@@ -1,0 +1,31 @@
+# Online Python compiler (interpreter) to run Python online.
+# Write Python 3 code in this online editor and run it.
+#print("Hello world")
+
+#LISTS
+#======
+list1=[1,2,3,[2,3],4]
+print(list1)
+
+#tuple
+#=====
+tuple1=(1,2,3,('parrot','green','color'),4,5)
+print(tuple1)
+
+#range
+#=====
+sequence1=range(1,14,2)
+for i in sequence1:
+    print(i)
+
+#to run after  downloading   -
+#python script.py
+#=====================
+
+#mapped data: Dict
+#Dict is an unordered collection of data containing key value pair
+#enclosed between curly braces {}
+#it is mutable
+#=============================
+
+dict1={"name:Priya",}"
