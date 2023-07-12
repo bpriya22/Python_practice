@@ -9,8 +9,23 @@
 #
 # sample1("Navin")
 
-def name(*name):
-    print(name[3])
+# def name(*name):
+#     print(name[3])
+#
+# name("james","bond","elena","eugene")
 
-name("james","bond","elena","eugene")
+# there are types of functions
+#1. built in functions
+#2. user defined functions
+
+def  name(fname,lname):
+    print("heloo",fname,lname)
+name("flin","rider")
+
+
+
+
+
+
+
 
