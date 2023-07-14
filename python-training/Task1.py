@@ -6,3 +6,4 @@ import math
 print(4==2*2)
 print(2.1==0.1*2)
 
+
