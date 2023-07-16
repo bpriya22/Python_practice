@@ -11,4 +11,11 @@
 # c=[x*y for x in a for y in b] ######wrong
 # print(c)
 
+# # print(0.3==0.1*3)
+print(0.2==0.1*2)
 
+# a=256
+# b=a
+# print(a,b)
+# b+=1
+# print(a,b)
