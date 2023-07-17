@@ -21,3 +21,7 @@ https://www.tutorialspoint.com/create-and-access-a-python-package
 
 creating a package and installing it:
 https://www.tutorialsteacher.com/python/python-package
+
+installing package globally:
+once a package is created it can be installed globally..
+https://www.tutorialsteacher.com/python/python-package
