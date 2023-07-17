@@ -17,3 +17,7 @@ https://www.javatpoint.com/python-modules
 
 creating and accessing a python package:
 https://www.tutorialspoint.com/create-and-access-a-python-package
+
+
+creating a package and installing it:
+https://www.tutorialsteacher.com/python/python-package
