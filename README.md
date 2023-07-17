@@ -25,3 +25,7 @@ https://www.tutorialsteacher.com/python/python-package
 installing package globally:
 once a package is created it can be installed globally..
 https://www.tutorialsteacher.com/python/python-package
+
+
+
+You may also want to publish the package for public use. PyPI (stands for Python Package Index) is a repository of Python packages. Visit https://packaging.python.org/distributing to know more about the procedure of uploading a package to PyPI.
