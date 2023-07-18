@@ -29,3 +29,18 @@ https://www.tutorialsteacher.com/python/python-package
 
 
 You may also want to publish the package for public use. PyPI (stands for Python Package Index) is a repository of Python packages. Visit https://packaging.python.org/distributing to know more about the procedure of uploading a package to PyPI.
+
+
+
+polymorphism:
+https://www.geeksforgeeks.org/polymorphism-in-python/
+
+
+OOPs concept:
+refered: LCO -HC
+
+
+Documentation to be refered:
+1.  https://docs.python.org/3/library/sqlite3.html
+
+2.  https://pypi.org/
