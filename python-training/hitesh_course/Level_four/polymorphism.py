@@ -1,16 +1,53 @@
+# class Animal:
+#     def speak(self):
+#         raise NotImplementedError("subclass must implement this method..")
+#
+# class Dog(Animal):
+#     def speak(self):
+#         return "woof!"
+#
+# class cat(Animal):
+#     def speak(self):
+#         return "meow"
+#
+# animals=[Dog(),cat()]
+#
+# for animal in animals:
+#     print(animal.speak())
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 class Animal:
     def speak(self):
-        raise NotImplementedError("subclass must implement this method..")
+        raise NotImplementedError("error!!!")
 
 class Dog(Animal):
     def speak(self):
-        return "woof!"
+        return("woof!!")
 
-class cat(Animal):
+class Cat(Animal):
     def speak(self):
-        return "meow"
+        return("Meow!")
 
-animals=[Dog(),cat()]
-
+dee=Dog()
+cee=Cat()
+animals=[dee,cee]
 for animal in animals:
     print(animal.speak())
