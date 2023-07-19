@@ -116,3 +116,10 @@ So, when you call Person.fromBirthYear("karthik", 1992), it creates a new Person
 
 By using a class method, you can provide an alternative way to create objects, in this case, by specifying the birth year instead of directly providing the age. It helps to encapsulate the logic of object creation and can be particularly useful when you have multiple ways to construct objects or need to perform additional computations during object creation.
 
+
+ACCESS SPECIFIERS (ACCESS MODIFIERS)
+
+https://www.geeksforgeeks.org/access-modifiers-in-python-public-private-and-protected/
+
+https://www.tutorialspoint.com/access-modifiers-in-python-public-private-and-protected
+
