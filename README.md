@@ -123,3 +123,8 @@ https://www.geeksforgeeks.org/access-modifiers-in-python-public-private-and-prot
 
 https://www.tutorialspoint.com/access-modifiers-in-python-public-private-and-protected
 
+
+MAGIC METHODS IN PYTHON
+
+https://www.tutorialsteacher.com/python/magic-methods-in-python
+
