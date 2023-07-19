@@ -128,3 +128,7 @@ MAGIC METHODS IN PYTHON
 
 https://www.tutorialsteacher.com/python/magic-methods-in-python
 
+
+CRUD OPERATIONS IN PYTHON:
+https://www.tutorialsteacher.com/python/database-crud-operation-in-python
+
