@@ -102,6 +102,8 @@ and it returns cls object, what does that mean.
 def fromBirthYear(cls, name, year):
     return cls(name, date.today().year - year)
 
+    
+
 The @classmethod decorator indicates that the method is a class method.
 
 The first parameter of the fromBirthYear method is cls, which represents the class Person itself. When the method is called, Python automatically passes the class as the first argument, just like self is passed to instance methods.
