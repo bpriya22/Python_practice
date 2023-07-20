@@ -7,6 +7,7 @@ python learning.
 websites help:
 
 https://docs.python.org/3/tutorial/index.html    ===>preferred
+
 https://www.tutorialspoint.com/python/index.htm
 https://pynative.com/python-exceptions/
 
