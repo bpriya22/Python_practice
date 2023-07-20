@@ -132,3 +132,9 @@ https://www.tutorialsteacher.com/python/magic-methods-in-python
 CRUD OPERATIONS IN PYTHON:
 https://www.tutorialsteacher.com/python/database-crud-operation-in-python
 
+
+TODO APPLICATION- HC COURSE
+
+SQLITE DATABASE:
+documentation: https://docs.python.org/3/library/sqlite3.html
+
