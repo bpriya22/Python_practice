@@ -97,9 +97,9 @@ Note: The ages and the name of the persons in the output might differ depending 
 and it returns cls object, what does that mean.
 
 
-@classmethod
-def fromBirthYear(cls, name, year):
-    return cls(name, date.today().year - year)
+    @classmethod
+    def fromBirthYear(cls, name, year):
+        return cls(name, date.today().year - year)
 
     
 
@@ -136,7 +136,4 @@ TODO APPLICATION- HC COURSE
 
 SQLITE DATABASE:
 documentation: https://docs.python.org/3/library/sqlite3.html
-
-
-
 
