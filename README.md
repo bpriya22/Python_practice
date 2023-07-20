@@ -13,6 +13,10 @@ https://www.tutorialspoint.com/python/index.htm
 https://pynative.com/python-exceptions/
 
 
+LIST COMPREHENSION
+https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions
+
+
 practice exercises:
 https://pynative.com/python-exercises-with-solutions/
 
