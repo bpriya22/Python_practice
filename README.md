@@ -154,6 +154,6 @@ DOCUMENTATION:  https://docs.python.org/3/library/random.html?highlight=rand#mod
 
 
 
-*Decorators:
+******Decorators:************
 https://www.freecodecamp.org/news/python-decorators-explained-with-examples/
 
