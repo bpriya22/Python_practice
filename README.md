@@ -152,3 +152,8 @@ documentation: https://docs.python.org/3/library/sqlite3.html
 RANDOMNESS IN PYTHON:
 DOCUMENTATION:  https://docs.python.org/3/library/random.html?highlight=rand#module-random
 
+
+
+*Decorators:
+https://www.freecodecamp.org/news/python-decorators-explained-with-examples/
+
