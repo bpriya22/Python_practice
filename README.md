@@ -167,6 +167,9 @@ https://www.simplilearn.com/top-web-frameworks-and-career-tips-in-web-developmen
 *****Protocols*****:
 https://developer.mozilla.org/en-US/docs/Glossary/Port
 
+Ajax:
+https://developer.mozilla.org/en-US/docs/Glossary/AJAX
+
 
 ***SAAS***:
 https://www.w3schools.com/sass/sass_intro.php
