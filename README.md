@@ -160,3 +160,6 @@ https://www.freecodecamp.org/news/python-decorators-explained-with-examples/
 *HackerRank*:
 https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
 
+***Web Frameworks***
+https://www.simplilearn.com/top-web-frameworks-and-career-tips-in-web-development-article
+
